@@ -1,2 +1,3 @@
 datasette==0.64.2
 datasette-codespaces==0.1.1
+sqlite-utils==3.30
