@@ -1,6 +1,5 @@
 # Local dev
-.vscode/
-data/content.db
+data/*.db
 
 ## Python general gitignore
 # Byte-compiled / optimized / DLL files
